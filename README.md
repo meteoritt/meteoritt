@@ -31,5 +31,5 @@
 
 ### 🤝🏻 Connect with Me
 
-<a href="https://t.me/CSRedRat"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/ChudakovSergey"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/chudakov"><img src="https://img.shields.io/badge/-Sergey%20Chudakov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
